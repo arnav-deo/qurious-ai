@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 35,
-  "versionName": "2.5.35",
-  "downloadUrl": "https://github.com/arnav-deo/qurious-app/releases/download/v2.5.35/qurious-v2.5.35.apk",
-  "releaseNotes": "stable code and it is better as it now carefully screens every message for trickery or nonsense before answering, remembers long conversations by summarizing older parts instead of rereading everything, picks up on your mood and quietly adjusts how it replies, and keeps a memory of past answers so repeated questions get instant responses. It also runs a behind-the-scenes learning routine that writes little notes about your goals and preferences to personalize future conversations, and it automatically chooses the right level of intelligence for each question \u2014 turning on live web search whenever it needs current information like news, prices, or scores. Together these changes make the assistant faster, safer, more personal, and more reliable in everyday use.\n",
+  "latestVersionCode": 36,
+  "versionName": "2.5.36",
+  "downloadUrl": "https://github.com/arnav-deo/qurious-app/releases/download/v2.5.36/qurious-v2.5.36.apk",
+  "releaseNotes": "This update makes Qurious smarter and more reliable: image attachments now work correctly in every conversation, even when a question also needs current information, and the assistant, conversation history, navigation, settings, and computer-use features have all been tested and verified working across the app. Under the hood, the codebase has been cleaned up and stabilized throughout.\n",
   "isMandatory": false
 }
